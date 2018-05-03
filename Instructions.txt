@@ -1,4 +1,4 @@
-1. Unzip Project to Visual Studio 2015 or later (this is the version I built in)
+1. Unzip PortfolioManager3 Project to Visual Studio 2015 or later (this is the version I built in)
 2. Build and Start Project
 3. You'll see the Main Window with a user controls for Portfolios, Positions and Analytics, which consists of textblocks for        profit, return, and a simple daily percent return graph
 4. Click 'New Portfolio'. Enter a name and benchmark (this would be a benchmark index such as .SPX) and then click Ok.
