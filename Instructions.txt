@@ -1,10 +1,10 @@
-1. Unzip PortfolioManager3 Project to Visual Studio 2015 or later (this is the version I built in)
+1. Unzip PortfolioManager3 Project to Visual Studio 2015 or later (this is the version I built in). Download and save stock csv files to hard drive.
 2. Build and Start Project
 3. You'll see the Main Window with a user controls for Portfolios, Positions and Analytics, which consists of textblocks for        profit, return, and a simple daily percent return graph
 4. Click 'New Portfolio'. Enter a name and benchmark (this would be a benchmark index such as .SPX) and then click Ok.
    That Portfolio will now show under 'Portfolios' with benchmark and an inception date
 5. Click the Portfolio and then click the search icon in the Positions section.
-6. For Instrument File Type, select CSV and then click 'Browse' to select a csv stock file (several are provided) and click Ok.
+6. For Instrument File Type, select CSV and then click 'Browse' to select a csv stock file and click Ok.
    The file path should show in the 'CSV File Path' box. Click 'Add'.
    The ticker symbol will show in the Positions list, which is a DataGrid. 
 7. Manually type in an entry date. This would be the current date for an end user, but can set the date back to see how analytics    are working. I recommend setting date back about 1 month or so.
